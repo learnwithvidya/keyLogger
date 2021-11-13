@@ -1,5 +1,5 @@
 #/usr/bin/env python
-#this program is follower by below given tutorial
+#this program is followed by below given tutorial
 #https://www.thepythoncode.com/article/write-a-keylogger-python
 #collects the keyboard input from the PC and sends it to a Email id.
 
